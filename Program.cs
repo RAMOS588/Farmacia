@@ -34,13 +34,13 @@ app.MapGet("/api/farmacia", () =>
             id = 2,
             codigo = "P002",
             nombre = "Paracetamol"
-        }
+        },
         new
         {
             id = 3,
             codigo = "P003",
             nombre = "Alprazolam",
-        }
+        },
     });
 });
 
